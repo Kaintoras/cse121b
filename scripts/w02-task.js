@@ -5,7 +5,7 @@
 /* Step 2 - Variables */
 let fullName = 'Joseph Garcia';
 let currentYear = 2024;
-let profilePicture = "images/yo.jpg";
+let profilePicture = 'images/Yo.jpg';
 /* Step 3 - Element Variables */
 const nameElement = document.getElementById('name');
 const foodElement = document.getElementById('food');
